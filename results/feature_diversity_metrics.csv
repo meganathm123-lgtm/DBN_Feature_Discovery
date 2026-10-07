@@ -1,0 +1,5 @@
+Representation,Number of Features,Mean Feature Std,Maximum Feature Std,Informative Features,Overall Variance
+Shallow RBM,32,0.2080664,0.30690983,32,0.05286456
+DBN Layer 1,32,0.2080664,0.30690983,32,0.05286456
+DBN Layer 2,16,0.15304454,0.26041573,16,0.026727548
+DBN Layer 3,8,0.0072807204,0.01059376,0,6.083114e-05

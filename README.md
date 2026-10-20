@@ -387,6 +387,7 @@ DBN_Feature_Discovery/
 ├── dataset/
 │
 ├── notebooks/
+│   └── DBN_Feature_Discovery.ipynb
 │
 ├── results/
 │   ├── shallow_rbm_features.png
@@ -509,11 +510,24 @@ All generated analysis files are stored in:
 results/
 ```
 
+### 📓 Running the Interactive Jupyter Notebook
+
+An interactive, self-contained Jupyter Notebook covering the full end-to-end workflow, visualizations, and comparative analysis is available in the `notebooks/` directory:
+
+```bash
+jupyter notebook notebooks/DBN_Feature_Discovery.ipynb
+```
+or
+```bash
+jupyter lab notebooks/DBN_Feature_Discovery.ipynb
+```
+
 ---
 
 ## 🛠️ Technologies Used
 
 - **Python**
+- **Jupyter Notebook**
 - **NumPy**
 - **Pandas**
 - **Scikit-learn**
